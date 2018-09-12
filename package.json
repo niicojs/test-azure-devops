@@ -1,0 +1,21 @@
+{
+  "name": "test-azure-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "tslint": "tslint -c tslint.json 'src/**/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niicojs/test-azure-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niicojs/test-azure-devops/issues"
+  },
+  "homepage": "https://github.com/niicojs/test-azure-devops#readme"
+}

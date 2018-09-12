@@ -1,0 +1,7 @@
+node_modules
+*.log
+user*.json
+.env
+bin
+data/*
+dist/*

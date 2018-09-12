@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ES2017",
+        "module": "commonjs",
+        "sourceMap": false,
+        "rootDir": "src",
+        "outDir": "bin",
+        "watch": false
+    }
+}
